@@ -1,0 +1,11 @@
+.news__list {
+    list-style: none;
+    margin-bottom: 25px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+.news__list__titel {
+    font-size: 24px;
+}
+.news__list__description {
+    font-size: 17px;
+}
